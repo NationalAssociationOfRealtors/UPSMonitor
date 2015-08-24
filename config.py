@@ -1,0 +1,5 @@
+INFLUX_HOST = "influx"
+INFLUX_PORT = 8086
+INFLUX_USER = "root"
+INFLUX_PASSWORD = "root"
+INFLUX_DATABASE = "ups_monitor"
